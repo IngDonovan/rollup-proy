@@ -1,0 +1,26 @@
+{
+  "name": "rollup-proy",
+  "version": "1.0.0",
+  "description": "Proyect using Rollup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngDonovan/rollup-proy.git"
+  },
+  "author": "Ing Donovan <rojasdrm03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngDonovan/rollup-proy/issues"
+  },
+  "homepage": "https://github.com/IngDonovan/rollup-proy#readme",
+  "devDependencies": {
+    "@rollup/plugin-html": "^1.0.2",
+    "@rollup/plugin-image": "^3.0.2",
+    "rollup": "^3.25.1",
+    "rollup-plugin-copy": "^3.4.0",
+    "rollup-plugin-css-only": "^4.3.0"
+  }
+}
