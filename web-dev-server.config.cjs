@@ -4,4 +4,4 @@ module.exports = {
     open: true,
     watch: true,
     appIndex: 'dist/index.html'
-}
+};

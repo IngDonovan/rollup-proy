@@ -4,7 +4,7 @@
   "description": "Proyect using Rollup",
   "main": "index.js",
   "scripts": {
-    "start": "web-dev-server --config web-dev-server.config.js",
+    "start": "web-dev-server --config web-dev-server.config.cjs",
     "build": "rollup -c"
   },
   "repository": {
